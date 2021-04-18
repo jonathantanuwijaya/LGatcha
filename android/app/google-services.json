@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52649653643",
+    "project_id": "lggatcha",
+    "storage_bucket": "lggatcha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52649653643:android:422b64bfb6948e9c31eb8e",
+        "android_client_info": {
+          "package_name": "id.gang.lgatcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52649653643-8nla3jhmqsv89oks9m56ng7dbnaoi1vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.gang.lgatcha",
+            "certificate_hash": "73c6f2b18fa06ca2316e67b8ba72c2177ab61f5e"
+          }
+        },
+        {
+          "client_id": "52649653643-7goacn8ekm80emj3a1am4p8ig7g8lg3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3TkvES6N7Ch3ge8pGu3ASdqSeM2uKHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52649653643-7goacn8ekm80emj3a1am4p8ig7g8lg3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
